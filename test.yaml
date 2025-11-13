@@ -1,4 +1,4 @@
-train: E:\Learning\1sem_of_junior\SA\class_project\aimed_software\yolov5-master\yolov5-master\test\images\train\		#训练集路径,路径根据自己的来
-val: E:\Learning\1sem_of_junior\SA\class_project\aimed_software\yolov5-master\yolov5-master\test\images\train\		#两相同路径
-nc: 1		#标签的数量，标注时所使用的标签数量	
-names: [‘A’]		#引号内为标注时的标签名字，若为多个逗号隔开即可，举例为A,完成后退出保存即可
+train: E:\Learning\1sem_of_junior\SA\class_project\aimed_software\yolov5-master\yolov5-master\test\images\train\ #训练集路径,路径根据自己的来
+val: E:\Learning\1sem_of_junior\SA\class_project\aimed_software\yolov5-master\yolov5-master\test\images\train\ #两相同路径
+nc: 1 #标签的数量，标注时所使用的标签数量
+names: [‘A’] #引号内为标注时的标签名字，若为多个逗号隔开即可，举例为A,完成后退出保存即可
